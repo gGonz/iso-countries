@@ -1,0 +1,287 @@
+[
+  {
+    "country": "US", 
+    "iso_code": "AL", 
+    "name": "Alabama"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "AK", 
+    "name": "Alaska"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "AZ", 
+    "name": "Arizona"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "AR", 
+    "name": "Arkansas"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "CA", 
+    "name": "California"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "CO", 
+    "name": "Colorado"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "CT", 
+    "name": "Connecticut"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "DE", 
+    "name": "Delaware"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "FL", 
+    "name": "Florida"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "GA", 
+    "name": "Georgia"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "HI", 
+    "name": "Hawaii"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "ID", 
+    "name": "Idaho"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "IL", 
+    "name": "Illinois"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "IN", 
+    "name": "Indiana"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "IA", 
+    "name": "Iowa"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "KS", 
+    "name": "Kansas"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "KY", 
+    "name": "Kentucky"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "LA", 
+    "name": "Louisiana"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "ME", 
+    "name": "Maine"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "MD", 
+    "name": "Maryland"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "MA", 
+    "name": "Massachusetts"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "MI", 
+    "name": "Michigan"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "MN", 
+    "name": "Minnesota"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "MS", 
+    "name": "Mississippi"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "MO", 
+    "name": "Missouri"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "MT", 
+    "name": "Montana"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "NE", 
+    "name": "Nebraska"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "NV", 
+    "name": "Nevada"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "NH", 
+    "name": "New Hampshire"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "NJ", 
+    "name": "New Jersey"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "NM", 
+    "name": "New Mexico"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "NY", 
+    "name": "New York"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "NC", 
+    "name": "North Carolina"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "ND", 
+    "name": "North Dakota"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "OH", 
+    "name": "Ohio"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "OK", 
+    "name": "Oklahoma"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "OR", 
+    "name": "Oregon"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "PA", 
+    "name": "Pennsylvania"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "RI", 
+    "name": "Rhode Island"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "SC", 
+    "name": "South Carolina"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "SD", 
+    "name": "South Dakota"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "TN", 
+    "name": "Tennessee"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "TX", 
+    "name": "Texas"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "UT", 
+    "name": "Utah"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "VT", 
+    "name": "Vermont"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "VA", 
+    "name": "Virginia"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "WA", 
+    "name": "Washington"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "WV", 
+    "name": "West Virginia"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "WI", 
+    "name": "Wisconsin"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "WY", 
+    "name": "Wyoming"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "DC", 
+    "name": "District of Columbia"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "AS", 
+    "name": "American Samoa"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "GU", 
+    "name": "Guam"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "MP", 
+    "name": "Northern Mariana Islands"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "PR", 
+    "name": "Puerto Rico"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "UM", 
+    "name": "United States Minor Outlying Islands"
+  }, 
+  {
+    "country": "US", 
+    "iso_code": "VI", 
+    "name": "Virgin Islands, U.S."
+  }
+]

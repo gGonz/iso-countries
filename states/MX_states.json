@@ -1,0 +1,162 @@
+[
+  {
+    "country": "MX", 
+    "iso_code": "AGU", 
+    "name": "Aguascalientes"
+  }, 
+  {
+    "country": "MX", 
+    "iso_code": "BCN", 
+    "name": "Baja California"
+  }, 
+  {
+    "country": "MX", 
+    "iso_code": "BCS", 
+    "name": "Baja California Sur"
+  }, 
+  {
+    "country": "MX", 
+    "iso_code": "CAM", 
+    "name": "Campeche"
+  }, 
+  {
+    "country": "MX", 
+    "iso_code": "CHP", 
+    "name": "Chiapas"
+  }, 
+  {
+    "country": "MX", 
+    "iso_code": "CHH", 
+    "name": "Chihuahua"
+  }, 
+  {
+    "country": "MX", 
+    "iso_code": "COA", 
+    "name": "Coahuila"
+  }, 
+  {
+    "country": "MX", 
+    "iso_code": "COL", 
+    "name": "Colima"
+  }, 
+  {
+    "country": "MX", 
+    "iso_code": "DIF", 
+    "name": "Distrito Federal"
+  }, 
+  {
+    "country": "MX", 
+    "iso_code": "DUR", 
+    "name": "Durango"
+  }, 
+  {
+    "country": "MX", 
+    "iso_code": "GUA", 
+    "name": "Guanajuato"
+  }, 
+  {
+    "country": "MX", 
+    "iso_code": "GRO", 
+    "name": "Guerrero"
+  }, 
+  {
+    "country": "MX", 
+    "iso_code": "HID", 
+    "name": "Hidalgo"
+  }, 
+  {
+    "country": "MX", 
+    "iso_code": "JAL", 
+    "name": "Jalisco"
+  }, 
+  {
+    "country": "MX", 
+    "iso_code": "MEX", 
+    "name": "Estado de México"
+  }, 
+  {
+    "country": "MX", 
+    "iso_code": "MIC", 
+    "name": "Michoacán"
+  }, 
+  {
+    "country": "MX", 
+    "iso_code": "MOR", 
+    "name": "Morelos"
+  }, 
+  {
+    "country": "MX", 
+    "iso_code": "NAY", 
+    "name": "Nayarit"
+  }, 
+  {
+    "country": "MX", 
+    "iso_code": "NLE", 
+    "name": "Nuevo León"
+  }, 
+  {
+    "country": "MX", 
+    "iso_code": "OAX", 
+    "name": "Oaxaca"
+  }, 
+  {
+    "country": "MX", 
+    "iso_code": "PUE", 
+    "name": "Puebla"
+  }, 
+  {
+    "country": "MX", 
+    "iso_code": "QUE", 
+    "name": "Querétaro"
+  }, 
+  {
+    "country": "MX", 
+    "iso_code": "ROO", 
+    "name": "Quintana Roo"
+  }, 
+  {
+    "country": "MX", 
+    "iso_code": "SLP", 
+    "name": "San Luis Potosí"
+  }, 
+  {
+    "country": "MX", 
+    "iso_code": "SIN", 
+    "name": "Sinaloa"
+  }, 
+  {
+    "country": "MX", 
+    "iso_code": "SON", 
+    "name": "Sonora"
+  }, 
+  {
+    "country": "MX", 
+    "iso_code": "TAB", 
+    "name": "Tabasco"
+  }, 
+  {
+    "country": "MX", 
+    "iso_code": "TAM", 
+    "name": "Tamaulipas"
+  }, 
+  {
+    "country": "MX", 
+    "iso_code": "TLA", 
+    "name": "Tlaxcala"
+  }, 
+  {
+    "country": "MX", 
+    "iso_code": "VER", 
+    "name": "Veracruz"
+  }, 
+  {
+    "country": "MX", 
+    "iso_code": "YUC", 
+    "name": "Yucatán"
+  }, 
+  {
+    "country": "MX", 
+    "iso_code": "ZAC", 
+    "name": "Zacatecas"
+  }
+]
